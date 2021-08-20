@@ -3,7 +3,7 @@
 
 - I’m interested in Software Development with **Java**, Back-end Development, GameDev and IT/SRE/Dev-Ops.
 
-- I have experience working on IT as IT Support Engineer.
+- I have experience working as IT Support Engineer.
 
 - reach me at **andres.bravo161@gmail.com**
 
