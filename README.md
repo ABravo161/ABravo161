@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andrés Bravo</h1>
-<h3 align="center">I'm a Sofware Developer from Argentina</h3>
+<h3 align="center">I'm a Jr. Sofware Developer from Argentina</h3>
 
-- I’m interested in Web Development, GameDev and IT.
+- I’m interested in Software Development with **Java**, Back-end Development, GameDev and IT/SRE/Dev-Ops.
 
-- I’m currently learning **Spring Framework**
+- I have experience working on IT as IT Support Engineer.
 
 - reach me at **andres.bravo161@gmail.com**
 
