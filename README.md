@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Andrés Bravo</h1>
-<h3 align="center">I'm a Jr. Sofware Developer from Argentina</h3>
+<h3 align="center">I'm a Full-Stack Sofware Developer from Argentina</h3>
 
-- I’m interested in Software Development with **Java**, Back-end Development, GameDev and IT/SRE/Dev-Ops.
+- I’m working with **Java**, **Spring Boot** and **ReactJS**.
 
-- I have experience working as IT Support Engineer.
+- I'm learning Docker and kubernetes
 
 - reach me at **andres.bravo161@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/abravo161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abravo161" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/abravo161" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@abravo161" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
